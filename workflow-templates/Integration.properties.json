@@ -1,4 +1,5 @@
 {
     "name": "Demo",
-    "description": "Demo CI starter workflow."
+    "description": "Demo CI starter workflow.",
+    "iconName": "octicon circle-slash"
 }
